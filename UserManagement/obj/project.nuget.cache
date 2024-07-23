@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7eblXFpXQ8=",
+  "dgSpecHash": "YGtQCZc+7W8=",
   "success": true,
-  "projectFilePath": "C:\\Workspaces\\login\\UserManagement\\UserManagement.csproj",
+  "projectFilePath": "C:\\Workspaces\\bkp\\login\\UserManagement\\UserManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferch\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ferch\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

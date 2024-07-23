@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspaces\\Login\\Data\\Data.csproj",
+      "projectUniqueName": "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj",
       "projectName": "Data",
-      "projectPath": "C:\\Workspaces\\Login\\Data\\Data.csproj",
+      "projectPath": "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj",
       "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspaces\\Login\\Data\\obj\\",
+      "outputPath": "C:\\Workspaces\\bkp\\login\\Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferch\\AppData\\Roaming\\NuGet\\NuGet.Config",

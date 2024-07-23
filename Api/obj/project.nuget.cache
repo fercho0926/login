@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RJWmJzJH/S8=",
+  "dgSpecHash": "QygWUzXtEwA=",
   "success": true,
-  "projectFilePath": "C:\\Workspaces\\login\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Workspaces\\bkp\\login\\Api\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferch\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ferch\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

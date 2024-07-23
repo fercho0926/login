@@ -2458,11 +2458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspaces\\login\\UserManagement\\UserManagement.csproj",
+      "projectUniqueName": "C:\\Workspaces\\bkp\\login\\UserManagement\\UserManagement.csproj",
       "projectName": "UserManagement",
-      "projectPath": "C:\\Workspaces\\login\\UserManagement\\UserManagement.csproj",
+      "projectPath": "C:\\Workspaces\\bkp\\login\\UserManagement\\UserManagement.csproj",
       "packagesPath": "C:\\Users\\ferch\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspaces\\login\\UserManagement\\obj\\",
+      "outputPath": "C:\\Workspaces\\bkp\\login\\UserManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferch\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2480,8 +2480,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Workspaces\\login\\Data\\Data.csproj": {
-              "projectPath": "C:\\Workspaces\\login\\Data\\Data.csproj"
+            "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj": {
+              "projectPath": "C:\\Workspaces\\bkp\\login\\Data\\Data.csproj"
             }
           }
         }
