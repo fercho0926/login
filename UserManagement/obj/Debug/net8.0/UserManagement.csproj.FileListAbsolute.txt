@@ -1,0 +1,15 @@
+C:\Workspaces\Login\UserManagement\bin\Debug\net8.0\UserManagement.deps.json
+C:\Workspaces\Login\UserManagement\bin\Debug\net8.0\UserManagement.dll
+C:\Workspaces\Login\UserManagement\bin\Debug\net8.0\UserManagement.pdb
+C:\Workspaces\Login\UserManagement\bin\Debug\net8.0\Data.dll
+C:\Workspaces\Login\UserManagement\bin\Debug\net8.0\Data.pdb
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.csproj.AssemblyReference.cache
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfoInputs.cache
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.AssemblyInfo.cs
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.csproj.CoreCompileInputs.cache
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserMana.582A6DE7.Up2Date
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.dll
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\refint\UserManagement.dll
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\UserManagement.pdb
+C:\Workspaces\Login\UserManagement\obj\Debug\net8.0\ref\UserManagement.dll
